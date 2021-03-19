@@ -1,0 +1,4 @@
+[submodule "intpath/import_journal_entry"]
+	path = intpath/import_journal_entry
+	url = git@github.com:intpath/import_journal_entry.git
+	branch = master
