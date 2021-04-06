@@ -2,3 +2,8 @@
 	path = intpath/import_journal_entry
 	url = git@github.com:intpath/import_journal_entry.git
 	branch = master
+
+[submodule "intpath/pl_foreign_currency"]
+	path = intpath/pl_foreign_currency
+	url = git@github.com:intpath/pl_foreign_currency.git
+	branch = master
