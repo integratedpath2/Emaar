@@ -12,3 +12,8 @@
 	path = intpath/product_bundle_pack
 	url = git@github.com:intpath/product_bundle_pack.git
 	branch = 14
+
+[submodule "intpath/mak_analytic_ext"]
+	path = intpath/mak_analytic_ext
+	url = git@github.com:intpath/mak_analytic_ext.git
+	branch = master
