@@ -12,3 +12,8 @@
 	path = intpath/product_bundle_pack
 	url = git@github.com:intpath/product_bundle_pack.git
 	branch = 14
+
+[submodule "intpath/emaar_accounting"]
+	path = intpath/emaar_accounting
+	url = git@github.com:intpath/emaar_accounting.git
+	branch = master
