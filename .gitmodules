@@ -17,3 +17,8 @@
 	path = intpath/emaar_accounting
 	url = git@github.com:intpath/emaar_accounting.git
 	branch = master
+
+[submodule "intpath/product_category"]
+	path = intpath/product_category
+	url = git@github.com:Integrated-Path/product_category.git
+	branch = master
