@@ -22,3 +22,8 @@
 	path = intpath/product_category
 	url = git@github.com:Integrated-Path/product_category.git
 	branch = master
+
+[submodule "intpath/invoice_bills"]
+	path = intpath/invoice_bills
+	url = git@github.com:intpath/invoice_bills.git
+	branch = master
