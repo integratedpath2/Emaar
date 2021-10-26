@@ -27,3 +27,8 @@
 	path = intpath/invoice_bills
 	url = git@github.com:intpath/invoice_bills.git
 	branch = master
+
+[submodule "intpath/print_journal_entries"]
+	path = intpath/print_journal_entries
+	url = git@github.com:intpath/print_journal_entries.git
+	branch = master
