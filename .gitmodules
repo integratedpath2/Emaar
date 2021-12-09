@@ -32,3 +32,8 @@
 	path = intpath/print_journal_entries
 	url = git@github.com:intpath/print_journal_entries.git
 	branch = master
+
+[submodule "intpath/emaar_journal_entries_report"]
+	path = intpath/emaar_journal_entries_report
+	url = git@github.com:intpath/emaar_journal_entries_report.git
+	branch = master
